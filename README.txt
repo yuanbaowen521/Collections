@@ -15,7 +15,8 @@ signal. Columns are: enhancer ID, chromosome, start, end, associated gene, enhan
 (1:yes, 0:no), H3K27ac ChIP-seq density (rpm/bp), read density in corresponding input sample (rpm/bp).
 enhancer_super_genes_bed_format containing 86 files, each a pair of UCSC Genome Browser tracks. Tracks displayed in black 
 are all stitched enhancers. Tracks displayed in red are superenhancers.
-File_document.txt is a documkent of these 86 files.
+File_document.txt is a documkent of these 86 files. Please refer paper: Super-Enhancers in the Control of Cell Identity 
+and Disease
 
 Also, the website http://162.129.231.130/EnhancerAtlas/link.php provides more information about enhancers.
 #################################################################################################################
